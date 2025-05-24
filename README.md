@@ -20,10 +20,37 @@ I'm SK Matrook Islam, a Computer Engineering graduate from Ahsanullah University
 
 ## 🚀 Skills & Interests
 
-- Computer Engineering fundamentals
-- (Add your top programming languages, frameworks, or specialties here!)
-- Open to new opportunities and collaborations
+🚀 Technical Skills
 
+Languages: C#, VB.NET, JavaScript, Python, PHP, TypeScript, SQL, HTML5, CSS3, DHTML, C
+
+Frameworks & Libraries: ASP.NET Core/MVC, Angular, Laravel, Django
+
+Databases: MS SQL Server, MySQL, Oracle, MS Access
+
+Tools & Platforms: Git, GitHub, IIS, Visual Studio, WordPress, RDLC, Crystal Reports
+
+Other: API Development, JWT, Biometric SDKs, CI/CD, SEO Integration, WooCommerce, Elementor
+
+🌐 Languages
+
+English
+
+Bangla
+
+Arabic
+
+🤝 Soft Skills
+
+Organized
+
+Communication
+
+Critical Thinking
+
+Teamwork
+
+Meeting Deadlines
 ---
 
 ## 🌐 Find Me Online
